@@ -19,7 +19,13 @@ Run the script.
 Click "Load Image" to select an image file.
 
 Notes/ extra additions:
--Add a path finding algorithm that avoids obstacle(the walls)
--Add extra AI/ML models that can improve the safety of the construction workers and Help in improving EGS standards of companies.
+-Add a path finding algorithm that avoids obstacle(the walls) and updates the location of tehe worker's at short intervals of time.
+
+-Creation of a NN that uses the Gyroscopic data and tell's us if the worker is free-falling or stationary .
+
+-Using the data the NN  has provided we can mark the potential hazardous spots on the 3D map.
+
+-Using Digital Twin for updating the 3D model real time by using sensors and making a YOLO model to compare and update.
+
 PS: THIS DASHBOARD IS STILL UNDER CONSTRUCTION AND A THE PATH FINDING ALGORITHM IS STILL UNDER WORK.
 
