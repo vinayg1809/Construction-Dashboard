@@ -4,7 +4,7 @@ The application allows users to load an image and visualize it in 3D, by analyzi
 Components:
 Main Application Class (ImageInterface):
 Initializes the Tkinter GUI window and sets up the layout.
-Contains methods for loading images, rendering them in 3D, displaying the image, marking points on the image canvas, and visualizing paths.
+Contains methods for loading images, rendering them in 3D, displaying the image.
 
 Image Rendering and Visualization:
 Renders the loaded image in 3D using Matplotlib.
