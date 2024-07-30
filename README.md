@@ -19,7 +19,7 @@ Run the script.
 Click "Load Image" to select an image file.
 
 Notes/ extra additions:
--Add a path finding algorithm that avoids obstacle(the walls) and updates the location of tehe worker's at short intervals of time.
+-Add a path finding algorithm that avoids obstacle(the walls) and updates the location of the worker's at short intervals of time.
 
 -Creation of a NN that uses the Gyroscopic data and tell's us if the worker is free-falling or stationary .
 
